@@ -1,0 +1,23 @@
+{
+  "name": "backend_crud_atividade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otoque/BackEnd_CRUD_Atividade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otoque/BackEnd_CRUD_Atividade/issues"
+  },
+  "homepage": "https://github.com/Otoque/BackEnd_CRUD_Atividade#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
