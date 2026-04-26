@@ -1,5 +1,3 @@
-# README BACK-END
-
 ```md
 # API CRUD de Usuários
 
